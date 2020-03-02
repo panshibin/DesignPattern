@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa975d7c-5a10-4e8a-96e7-70b5e7e429d2" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Singleton/target/" />
+    <ignored path="$PROJECT_DIR$/prototype/target/" />
+    <ignored path="$PROJECT_DIR$/builderModel/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TestBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/TestBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builderModel.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/builderModel/builderModel.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="HELP.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/builderModel/HELP.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dependencies</find>
+      <find>com.singleton.demo.demo.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.singleton.demo.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/demo/Hungry/ExectorThread.java" />
+        <option value="$PROJECT_DIR$/HELP.md" />
+        <option value="$PROJECT_DIR$/Singleton/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/Singleton/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ThreadLocalSingleton/ExectorThread.java" />
+        <option value="$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ThreadLocalSingleton/test.java" />
+        <option value="$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ContainerSingleton/ContainerSingletonTest.java" />
+        <option value="$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ContainerSingleton/ExectorThread.java" />
+        <option value="$PROJECT_DIR$/builder/HELP.md" />
+        <option value="$PROJECT_DIR$/builderModel/pom.xml" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/beanBuilder/TestBean.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/beanBuilder/TestBeanBuilder.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/beanBuilder/Shopping.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/beanBuilder/ShoppingBuilder.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/beanBuilder/ShoppingTest.java" />
+        <option value="$PROJECT_DIR$/builderModel/HELP.md" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/Ieat.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/Ieat.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/dogImpl.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/Iaction.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/BuilederI.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/Who.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/eatImpl.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/actionImpl.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/zoonFactory.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/TestBuilder.java" />
+        <option value="$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/ZoonFactory.java" />
+        <option value="$PROJECT_DIR$/prototype/HELP.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/prototype/src/main/java/com/prototype/demo/prototype/Zoon.java" />
+        <option value="$PROJECT_DIR$/prototype/src/main/java/com/prototype/demo/prototype/TestClonse.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../tool/apache-maven-3.3.9/repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../tool/apache-maven-3.3.9" />
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../tool/apache-maven-3.3.9/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="design.pattern" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="design.pattern" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="prototype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="builderModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="builderModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="builderModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="builderModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="builderModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="builderModel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="ClazzBuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestBuilder (1)">
+    <configuration name="TestBuilder (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.builder.demo.builder.ClazzBuilder.TestBuilder" />
+      <module name="builderModel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.builder.demo.builder.ClazzBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.builder.demo.builder.beanBuilder.TestBuilder" />
+      <module name="builderModel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.builder.demo.builder.beanBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestClonse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prototype.demo.prototype.TestClonse" />
+      <module name="prototype" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prototype.demo.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BuilderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="builderModel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.builder.demo.builder.BuilderApplication" />
+    </configuration>
+    <configuration name="PrototypeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="prototype" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.prototype.demo.prototype.PrototypeApplication" />
+    </configuration>
+    <configuration name="SingletonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="singleton" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.singleton.demo.singleton.SingletonApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SingletonApplication" />
+      <item itemvalue="Spring Boot.PrototypeApplication" />
+      <item itemvalue="Spring Boot.BuilderApplication" />
+      <item itemvalue="Application.TestBuilder" />
+      <item itemvalue="Application.TestBuilder (1)" />
+      <item itemvalue="Application.TestClonse" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestBuilder (1)" />
+        <item itemvalue="Application.TestClonse" />
+        <item itemvalue="Application.TestBuilder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa975d7c-5a10-4e8a-96e7-70b5e7e429d2" name="Default" comment="" />
+      <created>1583059429804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583059429804</updated>
+      <workItem from="1583059433113" duration="9015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9015000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32893" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3297568" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.5019685" side_tool="true" weight="0.25679544" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989432" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985694" weight="0.31836197" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32893" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32893" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" weight="0.32893" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32893" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4985694" weight="0.32893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.20386267" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="BPMNPalette" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32893" />
+      <window_info id="Web" order="4" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/prototype/src/main/java/com/prototype/demo/prototype/Zoon.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>String.valueOf(zoon)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(Zoon) super.clone()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>super.clone()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/demo/Hungry/ExectorThread.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/demo/ContainerSingleton/ContainerSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/SingletonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ThreadLocalSingleton/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ContainerSingleton/ContainerSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ContainerSingleton/ExectorThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ContainerSingleton/pojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/ThreadLocalSingleton/ExectorThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/src/main/java/com/singleton/demo/LazySimple/ExectorThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderMode/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderMode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="37" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singleton/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../tool/apache-maven-3.3.9/repo/org/projectlombok/lombok/1.18.6/lombok-1.18.6-sources.jar!/lombok/eclipse/handlers/HandleBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-659">
+          <caret line="169" column="49" lean-forward="true" selection-start-line="169" selection-start-column="49" selection-end-line="169" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../tool/apache-maven-3.3.9/repo/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar!/lombok/Builder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="338" column="26" lean-forward="true" selection-start-line="338" selection-start-column="26" selection-end-line="338" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/ActionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/beanBuilder/TestBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/beanBuilder/ShoppingBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/beanBuilder/Shopping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/ZoonFactoryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/EatImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/Iaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prototype/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../tool/apache-maven-3.3.9/repo/com/alibaba/fastjson/1.2.46/fastjson-1.2.46.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="1304" column="16" lean-forward="true" selection-start-line="1304" selection-start-column="16" selection-end-line="1304" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prototype/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.prototype.demo.prototype.TestClonse">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.prototype.demo.prototype.TestClonse</OriginalElement>
+          <nodes>
+            <node x="97.0" y="0.0">java.lang.Cloneable</node>
+            <node x="70.0" y="80.0">com.prototype.demo.prototype.Zoon</node>
+            <node x="0.0" y="0.0">lombok.Data</node>
+            <node x="224.0" y="0.0">java.io.Serializable</node>
+            <node x="93.5" y="226.0">com.prototype.demo.prototype.TestClonse</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.prototype.demo.prototype.Zoon" target="java.lang.Cloneable">
+              <point x="0.0" y="-48.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.prototype.demo.prototype.TestClonse" target="com.prototype.demo.prototype.Zoon">
+              <point x="-28.5" y="-15.0" />
+              <point x="122.0" y="201.0" />
+              <point x="110.25" y="201.0" />
+              <point x="-40.25" y="48.0" />
+            </edge>
+            <edge source="com.prototype.demo.prototype.Zoon" target="java.io.Serializable">
+              <point x="53.66666666666666" y="-48.0" />
+              <point x="204.16666666666666" y="55.0" />
+              <point x="282.0" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.prototype.demo.prototype.Zoon" target="lombok.Data">
+              <point x="-53.66666666666666" y="-48.0" />
+              <point x="96.83333333333334" y="55.0" />
+              <point x="38.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-112.5" y="214.0" />
+          <SelectedNodes>
+            <node>com.prototype.demo.prototype.TestClonse</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prototype/src/main/java/com/prototype/demo/prototype/TestClonse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="uml://JAVA/com.builder.demo.builder.ClazzBuilder.ZoonFactoryBuilder">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.builder.demo.builder.ClazzBuilder.ZoonFactoryBuilder</OriginalElement>
+          <nodes>
+            <node x="85.21666666666664" y="0.0">com.builder.demo.builder.ClazzBuilder.Iaction</node>
+            <node x="264.2166666666667" y="382.0">com.builder.demo.builder.ClazzBuilder.ZoonFactoryBuilder</node>
+            <node x="0.0" y="191.0">com.builder.demo.builder.ClazzBuilder.ActionImpl</node>
+            <node x="311.2166666666667" y="573.0">com.builder.demo.builder.ClazzBuilder.TestBuilder</node>
+            <node x="292.21666666666664" y="0.0">lombok.Data</node>
+            <node x="529.2166666666667" y="0.0">com.builder.demo.builder.ClazzBuilder.Ieat</node>
+            <node x="292.71666666666664" y="102.0">com.builder.demo.builder.ClazzBuilder.ZoonFactory</node>
+            <node x="607.3499999999999" y="191.0">com.builder.demo.builder.ClazzBuilder.EatImpl</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.builder.demo.builder.ClazzBuilder.ZoonFactoryBuilder" target="com.builder.demo.builder.ClazzBuilder.Iaction">
+              <point x="-109.20000000000005" y="-70.5" />
+              <point x="291.51666666666665" y="357.0" />
+              <point x="197.5" y="357.0" />
+              <point x="197.5" y="77.0" />
+              <point x="178.71666666666664" y="77.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.ZoonFactoryBuilder" target="com.builder.demo.builder.ClazzBuilder.ZoonFactory">
+              <point x="-54.60000000000008" y="-70.5" />
+              <point x="346.1166666666666" y="357.0" />
+              <point x="328.71666666666664" y="357.0" />
+              <point x="-72.0" y="115.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.ActionImpl" target="com.builder.demo.builder.ClazzBuilder.Iaction">
+              <point x="0.0" y="-26.0" />
+              <point x="93.5" y="77.0" />
+              <point x="116.38333333333327" y="77.0" />
+              <point x="-62.33333333333337" y="26.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.ZoonFactory" target="com.builder.demo.builder.ClazzBuilder.Ieat">
+              <point x="72.0" y="-115.0" />
+              <point x="472.71666666666664" y="77.0" />
+              <point x="557.55" y="77.0" />
+              <point x="-56.66666666666666" y="26.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.TestBuilder" target="com.builder.demo.builder.ClazzBuilder.ActionImpl">
+              <point x="-67.125" y="-26.0" />
+              <point x="333.5916666666667" y="553.0" />
+              <point x="93.5" y="553.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.ZoonFactory" target="lombok.Data">
+              <point x="0.0" y="-115.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.ZoonFactoryBuilder" target="com.builder.demo.builder.ClazzBuilder.Ieat">
+              <point x="109.19999999999993" y="-70.5" />
+              <point x="509.91666666666663" y="357.0" />
+              <point x="596.8499999999999" y="357.0" />
+              <point x="596.8499999999999" y="77.0" />
+              <point x="614.2166666666667" y="77.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.TestBuilder" target="com.builder.demo.builder.ClazzBuilder.ZoonFactoryBuilder">
+              <point x="22.375" y="-26.0" />
+              <point x="423.0916666666667" y="543.0" />
+              <point x="468.9666666666667" y="543.0" />
+              <point x="68.25" y="70.5" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.TestBuilder" target="com.builder.demo.builder.ClazzBuilder.EatImpl">
+              <point x="67.125" y="-26.0" />
+              <point x="467.8416666666667" y="553.0" />
+              <point x="692.3499999999999" y="553.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.EatImpl" target="com.builder.demo.builder.ClazzBuilder.Ieat">
+              <point x="0.0" y="-26.0" />
+              <point x="692.3499999999999" y="77.0" />
+              <point x="670.8833333333333" y="77.0" />
+              <point x="56.66666666666666" y="26.0" />
+            </edge>
+            <edge source="com.builder.demo.builder.ClazzBuilder.ZoonFactory" target="com.builder.demo.builder.ClazzBuilder.Iaction">
+              <point x="-72.0" y="-115.0" />
+              <point x="328.71666666666664" y="77.0" />
+              <point x="241.05" y="77.0" />
+              <point x="62.33333333333337" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-69.43638069914755" y="205.78737333675946" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/Ieat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/ZoonFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prototype/src/main/java/com/prototype/demo/prototype/Zoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/src/main/java/com/builder/demo/builder/ClazzBuilder/TestBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/builderModel.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builderModel/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>builder</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
